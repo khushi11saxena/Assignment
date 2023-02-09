@@ -1,1 +1,1 @@
-# Creted a new repos for python assignments
+# Creted a new repo for python assignments
